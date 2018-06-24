@@ -13,4 +13,5 @@ public static void resize(String inputImagePath, String outputImagePath, double 
         int scaledHeight = (int) (inputImage.getHeight() * percent);
         resize(inputImagePath, outputImagePath, scaledWidth, scaledHeight);
     }
-}```
+}
+```
