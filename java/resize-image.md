@@ -2,6 +2,9 @@
 name: Resize image
 language: java
 version: 8+
+read-more:
+    - #1
+    - #2
 ---
 In Java, to resize (or scale) an image read from an image file and save the scaled image into another image file, we can follow these steps:
 
