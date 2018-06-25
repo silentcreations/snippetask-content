@@ -7,12 +7,11 @@ read_more:
 Here is a tutorial which does exactly what you are looking for: the `MFMessageComposeViewController`.
 
 ```objectivec
-    MFMessageComposeViewController *controller = [[[MFMessageComposeViewController alloc] init] autorelease];
-	if([MFMessageComposeViewController canSendText])
-	{
-		controller.body = @"SMS message here";
-		controller.recipients = [NSArray arrayWithObjects:@"1(234)567-8910", nil];
-		controller.messageComposeDelegate = self;
-		[self presentModalViewController:controller animated:YES];
-	}
+MFMessageComposeViewController *controller = [[[MFMessageComposeViewController alloc] init] autorelease];
+if([MFMessageComposeViewController canSendText]) {
+    controller.body = @"SMS message here";
+    controller.recipients = [NSArray arrayWithObjects:@"1(234)567-8910", nil];
+    controller.messageComposeDelegate = self;
+    [self presentModalViewController:controller animated:YES];
+}
 ```
