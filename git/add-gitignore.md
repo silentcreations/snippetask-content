@@ -1,6 +1,8 @@
 ---
 name: Add .gitignore
 language: git
+read_more:
+- https://git-scm.com/docs/gitignore
 ---
 Commit all pending changes, then run the following to remove everything from the index
 
