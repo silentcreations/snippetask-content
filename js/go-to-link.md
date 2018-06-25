@@ -8,12 +8,12 @@ read_more:
 ---
 For regular navigation to a page use
 
-`window.location.href = 'https://www.example.com';`
+```window.location.href = 'https://www.example.com';```
 
 or shorter equivalent of
 
-`window.location = 'https://www.example.com';`
+```window.location = 'https://www.example.com';```
 
 If you want to replace the current page, instead of adding a new entry to history stack, use the `replace`
 
-`window.location.replace('https://www.example.com');`
+```window.location.replace('https://www.example.com');```
