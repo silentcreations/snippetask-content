@@ -2,7 +2,7 @@
 name: Send SMS
 language: android
 read_more:
-- http://guides.rubyonrails.org/routing.html#segment-constraints
+- https://developer.android.com/guide/components/intents-common#SendMessage
 ---
 You can use the following code:
 
@@ -13,3 +13,4 @@ startActivity(intent);
 ```
 
 Make sure you set `phoneNumber` to the phone number that you want to send the message to.
+`message` paramater is optional.
