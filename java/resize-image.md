@@ -1,5 +1,5 @@
 ---
-name: Resize image in Java
+name: Resize image
 language: java
 version: 8+
 ---
