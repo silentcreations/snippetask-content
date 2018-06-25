@@ -1,7 +1,7 @@
 ---
 name: Go to link
 language: js
-alias:
+aliases:
 - Navigate to URL
 ---
 This works in all browsers:
