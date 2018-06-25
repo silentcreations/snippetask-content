@@ -3,6 +3,8 @@ name: Delete remote
 language: git
 aliases:
 - Remove remote
+read_more:
+- https://git-scm.com/docs/git-remote
 ---
 Use `git remote -v` to list all the remotes
 
