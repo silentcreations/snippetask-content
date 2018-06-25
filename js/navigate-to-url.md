@@ -1,8 +1,8 @@
 ---
-name: Go to link
+name: Navigate to URL
 language: js
 aliases:
-- Navigate to URL
+- Go to link
 read_more:
 - https://developer.mozilla.org/en-US/docs/Web/API/Window/location
 ---
