@@ -27,12 +27,10 @@ and then use
 $ git remote rm destination
 ```
 
-to remove remote with that name
+to remove remote with that name. Use previous command again to verify it's succesfully removed.
 
 ```bash
-# Remove remote
 $ git remote -v
-# Verify it's gone
 origin  https://github.com/OWNER/REPOSITORY.git (fetch)
 origin  https://github.com/OWNER/REPOSITORY.git (push)
 ```
