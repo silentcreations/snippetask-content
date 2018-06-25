@@ -13,4 +13,4 @@ startActivity(intent);
 ```
 
 Make sure you set `phoneNumber` to the phone number that you want to send the message to.
-`message` paramater is optional.
+`message` parameter is optional.
