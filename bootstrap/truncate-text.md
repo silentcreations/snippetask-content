@@ -1,6 +1,8 @@
 ---
 name: Truncate text
 language: bootstrap
+read_more:
+- https://getbootstrap.com/docs/4.0/utilities/text/#text-wrapping-and-overflow
 aliases:
 - Ellipsize text
 ---
