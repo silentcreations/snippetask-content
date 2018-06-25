@@ -8,13 +8,13 @@ Commit all pending changes, then run the following to remove everything from the
 git rm -r --cached .
 ```
 
-Then you can regularly add everything again
+Then add everything again
 
 ```bash
 git add .`
 ```
 
-and commit it 🙌
+and commit it (to remove/add any additional files because of changes within `.gitignore` rules)
 
 ```bash
 git commit -m ".gitignore is now working"
