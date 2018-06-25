@@ -6,21 +6,30 @@ aliases:
 read_more:
 - https://git-scm.com/docs/git-remote
 ---
-Use `git remote -v` to list all the remotes
+Use
 
 ```bash
 $ git remote -v
-# View current remotes
+```
+
+to list all the remotes
+
+```bash
 origin  https://github.com/OWNER/REPOSITORY.git (fetch)
 origin  https://github.com/OWNER/REPOSITORY.git (push)
 destination  https://github.com/FORKER/REPOSITORY.git (fetch)
 destination  https://github.com/FORKER/REPOSITORY.git (push)
 ```
 
-and then use `git remote rm destination` to remove all with that name
+and then use
 
 ```bash
 $ git remote rm destination
+```
+
+to remove remote with that name
+
+```bash
 # Remove remote
 $ git remote -v
 # Verify it's gone
