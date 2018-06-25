@@ -1,6 +1,8 @@
 ---
 name: Generate random string
 language: ruby
+aliases:
+- Generate alphanumeric string
 ---
 To generate letter-only (`a-z`) string, of length `16` (note: max length can be `26`) use
 
