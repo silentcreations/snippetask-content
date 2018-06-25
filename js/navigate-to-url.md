@@ -3,6 +3,7 @@ name: Navigate to URL
 language: js
 aliases:
 - Go to link
+- Redirect to link
 read_more:
 - https://developer.mozilla.org/en-US/docs/Web/API/Window/location
 ---
