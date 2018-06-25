@@ -2,7 +2,7 @@
 name: Resize image
 language: java
 version: 8+
-read-more:
+read_more:
     - #1
     - #2
 ---
