@@ -14,8 +14,10 @@ Then add everything again
 git add .`
 ```
 
-and commit it (to remove/add any additional files because of changes within `.gitignore` rules)
+and commit it
 
 ```bash
 git commit -m ".gitignore is now working"
 ```
+
+That will remove any additional files because of `.gitignore` rules.
