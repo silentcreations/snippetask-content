@@ -18,8 +18,8 @@ To find out what is the name of the `remote`, use the `git remote -v` to list al
 
 ```bash
 $ git remote -v
-origin  https://github.com/OWNER/REPOSITORY.git (fetch)
-origin  https://github.com/OWNER/REPOSITORY.git (push)
-destination  https://github.com/FORKER/REPOSITORY.git (fetch)
-destination  https://github.com/FORKER/REPOSITORY.git (push)
+origin  https://github.com/silentcreations/snippetask-content.git (fetch)
+origin  https://github.com/silentcreations/snippetask-content.git (push)
+destination  https://heroku.com/silentcreations/snippetask-content.git (fetch)
+destination  https://heroku.com/silentcreations/snippetask-content.git (push)
 ```
