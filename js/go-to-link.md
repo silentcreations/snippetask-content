@@ -1,5 +1,5 @@
 ---
 name: Go to link
-language: javascript
+language: js
 ---
 // TODO:
