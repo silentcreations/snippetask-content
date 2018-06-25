@@ -11,3 +11,5 @@ This works in all browsers:
 If you wanted to change the page without it reflecting in the browser back history, you can do:
 
 `window.location.replace('...');`
+
+Ola!
