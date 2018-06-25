@@ -2,14 +2,20 @@
 name: Add .gitignore
 language: git
 ---
-Commit all pending changes, then run this command:
+Commit all pending changes, then run the following to remove everything from the index
 
-`git rm -r --cached .`
+```bash
+git rm -r --cached .
+```
 
-This removes everything from the index, then just run:
+Then you can regularly add everything again
 
-`git add .`
+```bash
+git add .`
+```
 
-Commit it:
+and commit it 🙌
 
-`git commit -m ".gitignore is now working"`
+```bash
+git commit -m ".gitignore is now working"
+```
