@@ -5,9 +5,7 @@ aliases:
 - Navigate to URL
 ---
 This works in all browsers:
-
-`window.location.href = '...';`
+`window.location.href = 'https://www.example.com';`
 
 If you wanted to change the page without it reflecting in the browser back history, you can do:
-
-`window.location.replace('...');`
+`window.location.replace('https://www.example.com');`
