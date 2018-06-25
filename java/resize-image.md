@@ -6,8 +6,7 @@ read_more:
 - "https://github.com/Animosity/CraftIRC/wiki/Complete-idiot's-introduction-to-yaml"
 - "https://getbootstrap.com/docs/4.0/layout/grid/#vertical-alignment"
 libraries:
-- repo: maven
-  id: org.imgscalr/imgscalr-lib/4.2
+- id: org.imgscalr/imgscalr-lib/4.2
 ---
 In Java, to resize (or scale) an image read from an image file and save the scaled image into another image file, we can follow these steps:
 
