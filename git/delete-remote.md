@@ -27,7 +27,7 @@ and then use
 $ git remote rm destination
 ```
 
-to remove remote with that name. Use previous command again to verify it's succesfully removed.
+to remove `remote` with that name. Use previous command again to verify it's succesfully removed.
 
 ```bash
 $ git remote -v
