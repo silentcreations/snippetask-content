@@ -1,7 +1,7 @@
 ---
 name: Delete remote
 language: git
-aliases
+aliases:
 - Remove remote
 ---
 Use `git remote -v` to list all the remotes
