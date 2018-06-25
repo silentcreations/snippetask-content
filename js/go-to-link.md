@@ -4,7 +4,7 @@ language: js
 aliases:
 - Navigate to URL
 read_more:
-- https://developer.mozilla.org/en/window.location
+- https://developer.mozilla.org/en-US/docs/Web/API/Window/location
 ---
 For regular navigation to a page use
 
