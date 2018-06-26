@@ -12,17 +12,16 @@ First paragraph
 Second paragraph
 ```
 
-To use a line break:
-- if you are using [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) or [Markdown Here](https://markdown-here.com/) just add a newline like so
+If you are using [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) or [Markdown Here](https://markdown-here.com/) just add a newline for a line-break like so
 
-        ```markdown
-        First line of paragraph.
-        Second line of paragraph.
-        ```
+```markdown
+First line of paragraph.
+Second line of paragraph.
+```
         
-- if you are using original [Markdown Spec](https://daringfireball.net/projects/markdown/syntax) then add two spaces at the end of the line
+However, if you are using original [Markdown Spec](https://daringfireball.net/projects/markdown/syntax) then add two spaces at the end of the line to add a line-break
 
-        ```markdown
-        First line of paragraph.  
-        Second line of paragraph.
-        ```
+```markdown
+First line of paragraph.  
+Second line of paragraph.
+```
