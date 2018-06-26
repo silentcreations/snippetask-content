@@ -1,5 +1,5 @@
 ---
-name: Convert-int-to-String
+name: Convert int to String
 language: java
 ---
 // TODO

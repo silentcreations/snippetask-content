@@ -1,5 +1,5 @@
 ---
-name: Call-one-constructor-from-another
+name: Call one constructor from another
 language: java
 ---
 // TODO

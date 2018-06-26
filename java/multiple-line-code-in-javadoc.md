@@ -1,5 +1,5 @@
 ---
-name: Multiple-line-code-in-Javadoc
+name: Multiple line code in Javadoc
 language: java
 ---
 // TODO

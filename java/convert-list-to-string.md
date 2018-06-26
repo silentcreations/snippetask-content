@@ -1,5 +1,5 @@
 ---
-name: Convert-List-to-String
+name: Convert List to String
 language: java
 ---
 // TODO

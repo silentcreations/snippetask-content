@@ -1,5 +1,5 @@
 ---
-name: Calculate-difference-between-two-dates
+name: Calculate difference between two dates
 language: java
 ---
 // TODO

@@ -1,5 +1,5 @@
 ---
-name: Sort-List
+name: Sort List
 language: java
 ---
 // TODO

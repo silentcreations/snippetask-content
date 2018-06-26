@@ -1,5 +1,5 @@
 ---
-name: Get-number-of-CPU-cores
+name: Get number of CPU cores
 language: java
 ---
 // TODO

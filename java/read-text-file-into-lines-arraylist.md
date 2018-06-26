@@ -1,5 +1,5 @@
 ---
-name: Read-text-file-into-lines-ArrayList
+name: Read text file into lines ArrayList
 language: java
 ---
 // TODO

@@ -1,5 +1,5 @@
 ---
-name: Generate-MD5-hash
+name: Generate MD5 hash
 language: java
 ---
 // TODO

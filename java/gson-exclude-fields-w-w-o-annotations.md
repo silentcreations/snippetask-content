@@ -1,5 +1,5 @@
 ---
-name: GSON-exclude-fields-w-w-o-annotations
+name: GSON exclude fields w/ w/o annotations
 language: java
 ---
 // TODO

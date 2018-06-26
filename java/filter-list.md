@@ -1,5 +1,5 @@
 ---
-name: Filter-list
+name: Filter list
 language: java
 ---
 // TODO

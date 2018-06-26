@@ -1,5 +1,5 @@
 ---
-name: Detect-colors-in-image
+name: Detect colors in image
 language: java
 ---
 // TODO

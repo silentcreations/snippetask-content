@@ -1,5 +1,5 @@
 ---
-name: Reverse-String
+name: Reverse String
 language: java
 ---
 // TODO

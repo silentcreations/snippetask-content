@@ -1,5 +1,5 @@
 ---
-name: Encode-base64
+name: Encode base64
 language: java
 ---
 // TODO

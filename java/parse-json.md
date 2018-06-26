@@ -1,5 +1,5 @@
 ---
-name: Parse-JSON
+name: Parse JSON
 language: java
 ---
 // TODO

@@ -1,5 +1,5 @@
 ---
-name: Parse-XML
+name: Parse XML
 language: java
 ---
 // TODO

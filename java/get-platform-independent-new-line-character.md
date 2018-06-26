@@ -1,5 +1,5 @@
 ---
-name: Get-platform-independent-new-line-character
+name: Get platform-independent new line character
 language: java
 ---
 // TODO

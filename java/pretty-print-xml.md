@@ -1,5 +1,5 @@
 ---
-name: Pretty-print-XML
+name: Pretty print XML
 language: java
 ---
 // TODO

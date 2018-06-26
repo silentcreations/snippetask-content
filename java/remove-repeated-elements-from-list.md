@@ -1,5 +1,5 @@
 ---
-name: Remove-repeated-elements-from-List
+name: Remove repeated elements from List
 language: java
 ---
 // TODO

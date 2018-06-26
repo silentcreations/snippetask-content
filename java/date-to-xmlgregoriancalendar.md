@@ -1,5 +1,5 @@
 ---
-name: Date-to-XMLGregorianCalendar
+name: Date to XMLGregorianCalendar
 language: java
 ---
 // TODO

@@ -1,5 +1,5 @@
 ---
-name: Time-to-duration
+name: Time to duration
 language: java
 ---
 // TODO

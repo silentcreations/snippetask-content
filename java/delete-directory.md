@@ -1,5 +1,5 @@
 ---
-name: Delete-directory
+name: Delete directory
 language: java
 ---
 // TODO

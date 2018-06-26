@@ -1,5 +1,5 @@
 ---
-name: Pretty-print-JSON
+name: Pretty print JSON
 language: java
 ---
 // TODO

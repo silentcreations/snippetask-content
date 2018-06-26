@@ -1,5 +1,5 @@
 ---
-name: Convert-chart-to-String
+name: Convert chart to String
 language: java
 ---
 // TODO

@@ -1,5 +1,5 @@
 ---
-name: Convert-List-to-Set
+name: Convert List to Set
 language: java
 ---
 // TODO

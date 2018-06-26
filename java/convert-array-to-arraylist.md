@@ -1,5 +1,5 @@
 ---
-name: Convert-array-to-ArrayList
+name: Convert array to ArrayList
 language: java
 ---
 // TODO

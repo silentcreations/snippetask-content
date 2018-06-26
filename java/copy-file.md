@@ -1,5 +1,5 @@
 ---
-name: Copy-file
+name: Copy file
 language: java
 ---
 // TODO

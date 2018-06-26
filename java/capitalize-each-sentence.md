@@ -1,5 +1,5 @@
 ---
-name: Capitalize-each-sentence
+name: Capitalize each sentence
 language: java
 ---
 // TODO

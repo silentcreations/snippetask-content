@@ -1,5 +1,5 @@
 ---
-name: Append-to-file
+name: Append to file
 language: java
 ---
 // TODO

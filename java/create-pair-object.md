@@ -1,5 +1,5 @@
 ---
-name: Create-Pair-object
+name: Create Pair object
 language: java
 ---
 // TODO

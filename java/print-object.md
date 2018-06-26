@@ -1,5 +1,5 @@
 ---
-name: Print-object
+name: Print object
 language: java
 ---
 // TODO

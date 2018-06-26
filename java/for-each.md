@@ -1,5 +1,5 @@
 ---
-name: for-each
+name: for each
 language: java
 ---
 // TODO

@@ -1,5 +1,5 @@
 ---
-name: Kill-a-thread
+name: Kill a thread
 language: java
 ---
 // TODO

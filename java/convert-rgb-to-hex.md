@@ -1,5 +1,5 @@
 ---
-name: Convert-RGB-to-HEX
+name: Convert RGB to HEX
 language: java
 ---
 // TODO

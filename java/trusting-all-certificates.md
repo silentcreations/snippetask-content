@@ -1,5 +1,5 @@
 ---
-name: Trusting-all-certificates
+name: Trusting all certificates
 language: java
 ---
 // TODO

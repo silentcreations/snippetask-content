@@ -1,5 +1,5 @@
 ---
-name: String-interpolation
+name: String interpolation
 language: java
 ---
 // TODO

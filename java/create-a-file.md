@@ -1,5 +1,5 @@
 ---
-name: Create-a-file
+name: Create a file
 language: java
 ---
 // TODO

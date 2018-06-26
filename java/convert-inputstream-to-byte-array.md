@@ -1,5 +1,5 @@
 ---
-name: Convert-InputStream-to-byte-array
+name: Convert InputStream to byte array
 language: java
 ---
 // TODO

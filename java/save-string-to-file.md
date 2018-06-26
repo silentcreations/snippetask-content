@@ -1,5 +1,5 @@
 ---
-name: Save-String-to-file
+name: Save String to file
 language: java
 ---
 // TODO

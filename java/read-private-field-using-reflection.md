@@ -1,5 +1,5 @@
 ---
-name: Read-private-field-using-reflection
+name: Read private field using reflection
 language: java
 ---
 // TODO

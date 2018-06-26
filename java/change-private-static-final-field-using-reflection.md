@@ -1,5 +1,5 @@
 ---
-name: Change-private-static-final-field-using-reflection
+name: Change private static final field using reflection
 language: java
 ---
 // TODO

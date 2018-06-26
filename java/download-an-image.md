@@ -1,5 +1,5 @@
 ---
-name: Download-an-image
+name: Download an image
 language: java
 ---
 // TODO

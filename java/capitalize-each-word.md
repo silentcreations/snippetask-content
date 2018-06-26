@@ -1,5 +1,5 @@
 ---
-name: Capitalize-each-word
+name: Capitalize each word
 language: java
 ---
 // TODO

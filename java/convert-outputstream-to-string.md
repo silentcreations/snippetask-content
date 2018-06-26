@@ -1,5 +1,5 @@
 ---
-name: Convert-OutputStream-to-String
+name: Convert OutputStream to String
 language: java
 ---
 // TODO

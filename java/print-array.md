@@ -1,5 +1,5 @@
 ---
-name: Print-array
+name: Print array
 language: java
 ---
 // TODO

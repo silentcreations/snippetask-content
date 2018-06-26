@@ -1,5 +1,5 @@
 ---
-name: Difference-between-getPath-getAbsolutePath-getCanonicalPath
+name: Difference between getPath, getAbsolutePath, getCanonicalPath
 language: java
 ---
 // TODO

@@ -1,5 +1,5 @@
 ---
-name: Write-to-a-file
+name: Write to a file
 language: java
 ---
 // TODO

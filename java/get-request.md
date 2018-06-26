@@ -1,5 +1,5 @@
 ---
-name: GET-request
+name: GET request
 language: java
 ---
 // TODO

@@ -1,5 +1,5 @@
 ---
-name: Parse-YAML
+name: Parse YAML
 language: java
 ---
 // TODO

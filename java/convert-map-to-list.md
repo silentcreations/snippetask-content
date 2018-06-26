@@ -1,5 +1,5 @@
 ---
-name: Convert-Map-to-List
+name: Convert Map to List
 language: java
 ---
 // TODO

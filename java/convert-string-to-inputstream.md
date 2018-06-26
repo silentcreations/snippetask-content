@@ -1,5 +1,5 @@
 ---
-name: Convert-String-to-InputStream
+name: Convert String to InputStream
 language: java
 ---
 // TODO

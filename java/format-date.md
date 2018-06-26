@@ -1,5 +1,5 @@
 ---
-name: Format-date
+name: Format date
 language: java
 ---
 // TODO

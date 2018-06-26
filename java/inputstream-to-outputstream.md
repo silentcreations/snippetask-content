@@ -1,5 +1,5 @@
 ---
-name: InputStream-to-OutputStream
+name: InputStream to OutputStream
 language: java
 ---
 // TODO

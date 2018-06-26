@@ -1,5 +1,5 @@
 ---
-name: Invoke-method-with-method-name-as-String
+name: Invoke method with method name as String
 language: java
 ---
 // TODO

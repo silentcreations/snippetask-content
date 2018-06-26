@@ -1,5 +1,5 @@
 ---
-name: Convert-String-to-long
+name: Convert String to long
 language: java
 ---
 // TODO

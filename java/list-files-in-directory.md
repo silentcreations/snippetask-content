@@ -1,5 +1,5 @@
 ---
-name: List-files-in-directory
+name: List files in directory
 language: java
 ---
 // TODO

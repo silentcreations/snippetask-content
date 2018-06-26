@@ -1,5 +1,5 @@
 ---
-name: Download-a-file
+name: Download a file
 language: java
 ---
 // TODO

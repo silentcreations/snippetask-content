@@ -1,5 +1,5 @@
 ---
-name: Copy-object
+name: Copy object
 language: java
 ---
 // TODO

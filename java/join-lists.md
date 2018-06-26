@@ -1,5 +1,5 @@
 ---
-name: Join-lists
+name: Join lists
 language: java
 ---
 // TODO

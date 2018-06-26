@@ -1,5 +1,5 @@
 ---
-name: Determine-operating-system
+name: Determine operating system
 language: java
 ---
 // TODO

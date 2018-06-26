@@ -1,5 +1,5 @@
 ---
-name: Compare-dates
+name: Compare dates
 language: java
 ---
 // TODO

@@ -1,5 +1,5 @@
 ---
-name: Repeat-a-String
+name: Repeat a String
 language: java
 ---
 // TODO

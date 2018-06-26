@@ -1,5 +1,5 @@
 ---
-name: Check-if-file-exists
+name: Check if file exists
 language: java
 ---
 // TODO

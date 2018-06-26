@@ -1,5 +1,5 @@
 ---
-name: Convert-String-into-byte
+name: Convert String into byte[]
 language: java
 ---
 // TODO

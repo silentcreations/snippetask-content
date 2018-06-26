@@ -1,5 +1,5 @@
 ---
-name: Copy-directory
+name: Copy directory
 language: java
 ---
 // TODO

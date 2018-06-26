@@ -1,5 +1,5 @@
 ---
-name: Execute-several-threads
+name: Execute several threads
 language: java
 ---
 // TODO

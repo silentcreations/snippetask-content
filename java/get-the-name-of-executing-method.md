@@ -1,5 +1,5 @@
 ---
-name: Get-the-name-of-executing-method
+name: Get the name of executing method
 language: java
 ---
 // TODO

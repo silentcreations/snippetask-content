@@ -1,5 +1,5 @@
 ---
-name: Round-to-decimal-places
+name: Round to decimal places
 language: java
 ---
 // TODO

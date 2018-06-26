@@ -1,5 +1,5 @@
 ---
-name: Convert-char-array-to-String
+name: Convert char array to String
 language: java
 ---
 // TODO

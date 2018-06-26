@@ -1,5 +1,5 @@
 ---
-name: Concatenate-arrays
+name: Concatenate arrays
 language: java
 ---
 // TODO

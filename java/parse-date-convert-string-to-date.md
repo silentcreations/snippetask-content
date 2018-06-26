@@ -1,5 +1,5 @@
 ---
-name: Parse-date-Convert-String-to-Date
+name: Parse date / Convert String to Date
 language: java
 ---
 // TODO

@@ -1,5 +1,5 @@
 ---
-name: String-formatting
+name: String formatting
 language: java
 ---
 // TODO
