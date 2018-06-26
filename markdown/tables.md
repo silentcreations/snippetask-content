@@ -4,7 +4,7 @@ language: markdown
 read_more:
 - https://github.github.com/gfm/#tables-extension-
 ---
-Tables aren't part of the core Markdown specification, but they are part of [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) also called GFM, and [Markdown Here](https://markdown-here.com/) supports them as well.
+Tables aren't part of the core [Markdown specification](https://daringfireball.net/projects/markdown/syntax), but they are part of [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) also called GFM, and [Markdown Here](https://markdown-here.com/) supports them as well.
 
 Use at least 3 dashes `-` to separate each header cell from the rest. Whitespace and outer pipes `|` are optional and are commonly used to make the Markdown itself more readable.
 
