@@ -20,8 +20,10 @@ alert(s);
 ````
 
 If you would like to use 3rd party library like [Prism](https://prismjs.com) or [highlight.js](https://highlightjs.org) for syntax highlighting, you must use the three back-ticks variant followed by a language name.
- 
+
+````markdown
 ```python
 s = "Python syntax highlighting"
 print s
 ```
+````
