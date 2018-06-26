@@ -7,19 +7,19 @@ read_more:
 Regular link
 
 ```markdown
-[I'm an inline-style link](https://www.google.com)
+[Inline link](https://www.google.com)
 ```
 
 Link with a title
 
 ```markdown
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Inline link with title](https://www.google.com "Google's Homepage")
 ```
 
 Reference-style link where the actual website is defined at the bottom of the document instead of inline
 
 ```markdown
-[I'm a reference-style link][some text or just a number]
+[Reference-style link][some text or just a number]
 .
 .
 .
