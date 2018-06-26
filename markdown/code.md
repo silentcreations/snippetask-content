@@ -12,7 +12,7 @@ Inline `code` has `back-ticks` around it.
 
 Blocks of code are either fenced by lines with three back-ticks ``` which is the preferred version (see below), or are indented with four spaces.
 
-    ```markdown
+    ```
     var s = "Code block";
     alert(s);
     ```
