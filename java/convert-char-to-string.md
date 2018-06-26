@@ -1,5 +1,5 @@
 ---
-name: Convert RGB color to Hex
+name: Convert char to String
 language: java
 ---
 // TODO

@@ -1,7 +1,7 @@
 ---
-name: Concatenate arrays
+name: Concatenate Lists
 language: java
 aliases:
-- Join arrays
+- Join Lists
 ---
 // TODO

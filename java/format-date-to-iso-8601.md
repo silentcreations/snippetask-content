@@ -1,5 +1,5 @@
 ---
-name: Convert RGB color to Hex
+name: Format date to ISO 8601
 language: java
 ---
 // TODO

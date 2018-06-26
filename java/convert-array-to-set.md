@@ -1,5 +1,5 @@
 ---
-name: Convert Array to Set
+name: Convert array to Set
 language: java
 ---
 // TODO

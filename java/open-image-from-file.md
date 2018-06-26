@@ -1,5 +1,5 @@
 ---
-name: Convert RGB color to Hex
+name: Open image from file
 language: java
 ---
 // TODO

@@ -1,5 +1,5 @@
 ---
-name: Convert RGB color to Hex
+name: Kill thread
 language: java
 ---
 // TODO

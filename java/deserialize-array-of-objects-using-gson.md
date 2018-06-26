@@ -1,5 +1,5 @@
 ---
-name: Deserialize array of objects using GSON
+name: Deserialize array of objects using Gson
 language: java
 ---
 // TODO

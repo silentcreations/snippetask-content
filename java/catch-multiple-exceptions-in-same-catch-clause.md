@@ -1,5 +1,5 @@
 ---
-name: Catch multiple Exceptions in same catch clause
+name: Catch multiple exceptions in same catch clause
 language: java
 ---
 // TODO

@@ -1,5 +1,5 @@
 ---
-name: Convert RGB color to Hex
+name: Execute GET request
 language: java
 ---
 // TODO

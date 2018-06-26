@@ -1,5 +1,5 @@
 ---
-name: Convert RGB color to Hex
+name: Base64 encode
 language: java
 ---
 // TODO

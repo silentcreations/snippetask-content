@@ -1,5 +1,5 @@
 ---
-name: Convert RGB color to Hex
+name: Detect operating system
 language: java
 ---
 // TODO

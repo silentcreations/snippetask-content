@@ -1,5 +1,5 @@
 ---
-name: Check if string contains substring
+name: Check if String contains substring
 language: java
 ---
 // TODO

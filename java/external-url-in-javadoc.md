@@ -1,5 +1,5 @@
 ---
-name: Convert RGB color to Hex
+name: External URL in Javadoc
 language: java
 ---
 // TODO
